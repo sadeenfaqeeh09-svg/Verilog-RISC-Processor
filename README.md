@@ -94,24 +94,26 @@ Use any Verilog simulator such as:
 
 ### 📄 Documentation
 
-This repository includes:
-📘 Project specification document
-📑 Final report with design explanation and results
+* This repository includes:
+  - 📘 Project specification document
+  - 📑 Final report with design explanation and results
 
 ---
 
 ### Environment
-Hardware Description Language: Verilog
-Simulation Tools: ModelSim / Vivado
-OS: Linux / Windows
+* Hardware Description Language: Verilog
+* Simulation Tools: ModelSim / Vivado
+* OS: Linux / Windows
 
 ---
 
 ###  Course Information
-Course: Computer Architecture
-Project: Project 2
-Topic: Design and Verification of a Simple RISC Processor
+1. Course: Computer Architecture 
+2. Project: Project 2
+3. Topic: Design and Verification of a Simple RISC Processor
 
 
+---
 
+### Sadeen J. Faqih 
 
