@@ -1,5 +1,12 @@
 # 🧠 Verilog RISC Processor Design and Verification
 
+---
+
+## Computer Architecture
+
+---
+
+
 ## 📌 Description
 This project presents the design and verification of a simple RISC processor implemented in Verilog.
 
